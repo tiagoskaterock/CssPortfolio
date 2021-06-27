@@ -1,3 +1,3 @@
 # portfolio
 
-![images](tiago.jpeg)
+![Portfolio Website](images/tiago.jpeg)
