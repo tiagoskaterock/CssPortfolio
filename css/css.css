@@ -126,6 +126,4 @@ html {
 .navbar-link:hover::before {
 	width: 130%;
 }
-
-
 /* end navbar */
