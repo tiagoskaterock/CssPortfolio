@@ -21,6 +21,16 @@ html {
 	align-items: center;
 }
 
+.section-heading {
+	font-size: 5rem;
+	color: #333;
+	text-transform: uppercase;
+	letter-spacing: .5rem;
+	margin-bottom: 15rem;
+	border-bottom: .3rem solid #333;
+	text-shadow: .2rem .2rem .5rem #555;
+}
+
 /* Section 1 */
 .section-1 {
 	width: 100%;
@@ -30,7 +40,7 @@ html {
 			rgba(255, 255, 255, .2), 
 			rgba(255, 255, 255, .3)
 		), 
-		url(images/bg.jpg) center no-repeat;
+		url("../images/bg.jpg") center no-repeat;
 	background-size: cover;
 	flex-direction: column;
 }

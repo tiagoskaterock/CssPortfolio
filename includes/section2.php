@@ -1,6 +1,6 @@
 <section class="section-2" id="section-about">
 
-	<h1 class="section-2-heading">About me</h1>
+	<h1 class="section-heading section-2-heading">About me</h1>
 
 	<div class="progress-bars-wrapper">
 		<?php foreach ($bars as $bar): ?>
@@ -9,7 +9,6 @@
 					<?= $bar['name'] ?>
 					<span><?= $bar['percent'] ?></span>%
 					<div class="progress-percent"></div>
-				</p>
 			</div>
 		<?php endforeach ?>
 	</div>

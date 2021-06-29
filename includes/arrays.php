@@ -85,3 +85,74 @@
 		),	
 
 	);
+
+
+
+	$projects = array(
+
+		array(
+			'name' => 'Home',
+			'technologies' => 'HTML / CSS / JavaScript',
+			'image' => 'project-1.jpg',
+			'slug' => '#',
+		),	
+
+		array(
+			'name' => 'App React',
+			'technologies' => 'React',
+			'image' => 'project-2.jpg',
+			'slug' => '#',
+		),	
+
+		array(
+			'name' => 'Home',
+			'technologies' => 'HTML / CSS / JavaScript',
+			'image' => 'project-3.jpg',
+			'slug' => '#',
+		),	
+
+		array(
+			'name' => 'Website',
+			'technologies' => 'JavaScript',
+			'image' => 'project-4.jpg',
+			'slug' => '#',
+		),	
+
+		array(
+			'name' => 'React API',
+			'technologies' => 'JavaScript React',
+			'image' => 'project-5.jpg',
+			'slug' => '#',
+		),	
+
+		array(
+			'name' => 'Ballon Site',
+			'technologies' => 'Sass',
+			'image' => 'project-6.jpg',
+			'slug' => '#',
+		),	
+
+		array(
+			'name' => 'App Food',
+			'technologies' => 'Java',
+			'image' => 'project-7.jpg',
+			'slug' => '#',
+		),	
+
+		array(
+			'name' => 'Cups App',
+			'technologies' => 'Assembly',
+			'image' => 'project-8.jpg',
+			'slug' => '#',
+		),	
+
+		array(
+			'name' => 'Hamburger Website',
+			'technologies' => 'PHP',
+			'image' => 'project-9.jpg',
+			'slug' => '#',
+		),	
+
+
+
+	);
