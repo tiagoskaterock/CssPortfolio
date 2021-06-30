@@ -156,3 +156,28 @@
 
 
 	);
+
+
+	$social_media = array(
+
+		array(
+			'icon' => 'fab fa-github-square',
+			'link' => '#',
+		),
+
+		array(
+			'icon' => 'fab fa-youtube',
+			'link' => '#',
+		),
+
+		array(
+			'icon' => 'fab fa-facebook-square',
+			'link' => '#',
+		),
+
+		array(
+			'icon' => 'fab fa-instagram-square',
+			'link' => '#',
+		),
+
+	);

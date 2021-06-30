@@ -12,4 +12,6 @@
 
 <?php include('includes/section4.php') ?>
 
+<?php include('includes/footer.php') ?>
+
 </div>
