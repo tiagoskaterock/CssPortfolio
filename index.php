@@ -10,4 +10,6 @@
 
 <?php include('includes/section3.php') ?>
 
+<?php include('includes/section4.php') ?>
+
 </div>
